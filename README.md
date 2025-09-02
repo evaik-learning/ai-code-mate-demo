@@ -1,5 +1,5 @@
 # AI Code Mate (Demo)
-AI‑powered coding assistant demo that reviews GitHub repos, finds bugs, explains code, and suggests fixes — built with FastAPI, Groq GPT‑OSS,Model Context Protocol (MCP) and Gradio UI
+AI‑powered coding assistant demo that reviews GitHub repos, finds bugs, explains code, and suggests fixes — built with FastAPI, Groq GPT‑OSS,Model Context Protocol (MCP) and Gradio UI. Test
 
 ## Features
 - Search repo files and contents via `search_repo`.
