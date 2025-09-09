@@ -12,6 +12,9 @@ AI Code Mate is an intelligent assistant that analyzes GitHub repositories for b
 - **🛠️ Tool Execution Log**: Monitor GitHub API calls and results
 - **🎨 Modern UI**: Clean, intuitive Gradio interface
 
+## Tutorial ## 
+https://github.com/evaik-learning/ai-code-mate-demo/blob/main/docs/TUTORIAL.md 
+
 ## Preview ###
 https://github.com/user-attachments/assets/187903a7-798c-4381-bd0a-f561133dcf33
 
