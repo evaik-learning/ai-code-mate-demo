@@ -133,4 +133,4 @@ Command cheat‑sheet
 - Install deps: pip install -U gradio python-dotenv requests rich
 - Run app: python app_gradio.py
 
-That’s it — you now have a local AI agent that can analyze GitHub repositories using Groq and GPT‑OSS models, with an MCP‑style tool pattern you can extend for your own use cases.
+That’s it — you now have a local AI agent that can analyze GitHub repositories using Groq and openai/gpt-oss-20b models, with an MCP‑style tool pattern you can extend for your own use cases.
