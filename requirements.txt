@@ -6,4 +6,6 @@ gradio
 requests
 pydantic
 rich
+mcp
+PyGithub
 

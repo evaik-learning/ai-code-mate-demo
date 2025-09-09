@@ -3,7 +3,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-
 [packages]
 fastapi = "*"
 httpx = "*"
@@ -12,6 +11,8 @@ gradio = "*"
 requests = "*"
 pydantic = "*"
 rich = "*"
+mcp = "*"
+pygithub = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 
 [dev-packages]
